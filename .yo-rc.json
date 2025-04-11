@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authenticationType": "jwt",
+    "baseName": "proyecto2025",
+    "buildTool": "maven",
+    "cacheProvider": "ehcache",
+    "clientFramework": "react",
+    "clientTestFrameworks": [],
+    "clientTheme": "none",
+    "creationTimestamp": 1744343932263,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "enableHibernateCache": true,
+    "enableTranslation": true,
+    "entities": [],
+    "feignClient": null,
+    "jhipsterVersion": "8.10.0",
+    "jwtSecretKey": "YzliMWE0ZWI0OTJmNjJjMTg5NWQ0ZmIzODVmOWEzYzE5NDAzZGNmNzRiMjdiNWNlMzk2MDdmMWI3ZGQ5NTc0MDcwOWI2MTgwNmMzNTNhNThmOTcyOTI4NjI2ZWY3ZDQzMzViNDdmNzA5M2JmNDQ2Yjg0ZTlkZWNiM2ViZjU1ZGQ=",
+    "languages": ["es", "en"],
+    "microfrontend": null,
+    "microfrontends": [],
+    "nativeLanguage": "es",
+    "packageName": "com.udea",
+    "prodDatabaseType": "mysql",
+    "reactive": false,
+    "serverPort": null,
+    "serviceDiscoveryType": null,
+    "syncUserWithIdp": null,
+    "testFrameworks": [],
+    "withAdminUi": true
+  }
+}
